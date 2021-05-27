@@ -1,0 +1,18 @@
+.grid {
+    width: 606;
+    height :606px;
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+    padding: 0px;
+}
+
+.square{
+    height: 200px;
+    width:200px;
+    border:solid black 1px;
+}
+
+.mole{
+    background-image:url(/mole.jpeg) ;
+    background-size: cover;
+}
